@@ -1,0 +1,35 @@
+Evaluate GIF against each of the below criteria to understand the quantifiable 
+aspects of GIF, before examining its qualitative aspects
+
+
+Score and its meaning 
+---------------------
+ 0 - 25   Does not make the cut; require rethinking in most parts
+25 - 50   Does not make the cut; require redesigning in some parts
+50 - 75   Does make the cut; but needs attention in some of the parts
+75 - 100  Makes the cut; and stands in good terms with the evaluation criteria
+
+
+Evaluation Criteria
+-------------------
+1. Basic Requirements
+   1.1 Is the file saved with .gif file format?
+       0    - No
+       10   - Yes
+   1.2 Does your gif follow the correct required dimensions?
+       0    - If it is not square, and nor does it follow min. size of 800x800px
+       2.5  - If it square, but is lesser than 800x800px
+       7.5  - If it square, but more than 800x800px
+       10   - If it is square and is exactly 800x800px
+   1.3 Does your gif meets the required size?
+       0    - More than 40MB
+       2.5  - Between 30 to 40MB
+       5.0  - Between 25 to 30MB
+       7.5  - Between 20 to 25MB
+       10   - Lesser than 20MB
+2. Self attribution - It is important you leave a marker as an identifiable author,
+   to retain an attribution for the authors and it creates more credibility as the 
+   GIF is likely to contain factual information
+
+3. Fair usage of non-original work
+4. 
