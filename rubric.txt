@@ -4,10 +4,10 @@ aspects of GIF, before examining its qualitative aspects
 
 Score and its meaning 
 ---------------------
- 0 - 25   Does not make the cut; require rethinking in most parts
-25 - 50   Does not make the cut; require redesigning in some parts
-50 - 75   Does make the cut; but needs attention in some of the parts
-75 - 100  Makes the cut; and stands in good terms with the evaluation criteria
+ 0% - 25%   Does not make the cut; require rethinking in most parts
+25% - 50%   Does not make the cut; require redesigning in some parts
+50% - 75%   Does make the cut; but needs attention in some of the parts
+75% - 100%  Makes the cut; and stands in good terms with the evaluation criteria
 
 
 Evaluation Criteria
